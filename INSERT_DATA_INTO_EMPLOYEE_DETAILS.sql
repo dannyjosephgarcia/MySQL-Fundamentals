@@ -1,0 +1,15 @@
+INSERT INTO employee_details (employee_id, first_name, last_name, gender, age, birth_date) VALUES
+(1, 'Michael', 'Scott', 'M', 45, '1964-03-15'),
+(2, 'Dwight', 'Schrute', 'M', 40, '1970-01-20'),
+(3, 'Jim', 'Halpert', 'M', 30, '1978-10-01'),
+(4, 'Pam', 'Beesly', 'F', 28, '1979-03-25'),
+(5, 'Stanley', 'Hudson', 'M', 55, '1951-08-14'),
+(6, 'Angela', 'Martin', 'F', 36, '1971-11-11'),
+(7, 'Kevin', 'Malone', 'M', 36, '1972-06-01'),
+(8, 'Ryan', 'Howard', 'M', 27, '1980-05-05'),
+(9, 'Kelly', 'Kapoor', 'F', 27, '1980-02-05'),
+(10, 'Toby', 'Flenderson', 'M', 40, '1968-02-22'),
+(11, 'Meredith', 'Palmer', 'F', 42, '1966-05-10'),
+(12, 'Creed', 'Bratton', 'M', 60, '1943-02-08'),
+(13, 'Oscar', 'Martinez', 'M', 34, '1974-07-19'),
+(14, 'Phyllis', 'Vance', 'F', 52, '1955-07-10');
