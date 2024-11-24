@@ -1,0 +1,15 @@
+INSERT INTO employee_salary (employee_id, first_name, last_name, position_title, salary, department_id) VALUES
+(1, 'Michael', 'Scott', 'Regional Manager', 75000.00, 1),
+(2, 'Dwight', 'Schrute', 'Assistant Regional Manager', 55000.00, 1),
+(3, 'Jim', 'Halpert', 'Sales Representative', 50000.00, 2),
+(4, 'Pam', 'Beesly', 'Receptionist', 35000.00, 3),
+(5, 'Stanley', 'Hudson', 'Sales Representative', 52000.00, 2),
+(6, 'Angela', 'Martin', 'Accountant', 42000.00, 4),
+(7, 'Kevin', 'Malone', 'Accountant', 42000.00, 4),
+(8, 'Ryan', 'Howard', 'Temp', 28000.00, 3),
+(9, 'Kelly', 'Kapoor', 'Customer Service Representative', 36000.00, 5),
+(10, 'Toby', 'Flenderson', 'Human Resources Representative', 48000.00, 6),
+(11, 'Meredith', 'Palmer', 'Supplier Relations Representative', 38000.00, 5),
+(12, 'Creed', 'Bratton', 'Quality Assurance', 37000.00, 7),
+(13, 'Oscar', 'Martinez', 'Accountant', 45000.00, 4),
+(14, 'Phyllis', 'Vance', 'Sales Representative', 50000.00, 2);
